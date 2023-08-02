@@ -20,8 +20,8 @@
 
 <h2>⛓️ Connect </h2>
 <p align="left">
-<a href="https://linkedin.com/in/dhruvpatel1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruvpattel1409" height="20" width="20" /></a>&nbsp
-<a href="https://www.leetcode.com/dhruvpatel2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruvpattel2002" height="20" width="20" /></a>&nbsp
+<a href="https://www.linkedin.com/in/toshit-jain-b5119b209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toshitjain09" height="20" width="20" /></a>&nbsp
+<a href="https://leetcode.com/jaintoshit9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="toshitjain09" height="20" width="20" /></a>&nbsp
 <a href="https://www.figma.com/files/recent?fuid=962330400845286568" target="_blank" rel="noreferrer"> <img align="centre" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="20"/> </a>&nbsp
 <a href="https://instagram.com/dhruvpatelx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvpatelx" height="20" width="20" /></a>
 </p>
