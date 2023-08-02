@@ -1,17 +1,16 @@
 <h1 align="left">Hi 👋, I'm Toshit Jain</h1>
 <h3 align="left">A passionate frontend developer from India</h3><br>
-<p>I'm currently a undergrad persuing computer science from IET DAVV, Indore . I am working on some side projects, learning a couple new dishes, and trying to make myself better everyday.</p>
+<p>I'm currently a undergrad persuing computer science from VIT Bhopal. I am working on some side projects, learning a couple new dishes, and trying to make myself better everyday.</p>
 
 <img align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif"  width="300" height="200" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently learning Mern Stack.</li>
-<li>🧐 Learning about <strong>New Dev Technologies</strong>, <strong>Computer networks</strong>, and a bit of <strong>ML</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/dhruvpatel2002">Github</a>.</li>
-<li>📝 You can visit my portfolio website <a href="https://blog.stanleylim.me">Dhruv Patel</a>.</li>
+<li>🔭 I’m currently learning React.js</li>
+<li>🧐 Learning about <strong>New Dev Technologies</strong>, <strong>Computer networks</strong>, and a bit of <strong>UI/UX</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/toshitjain09">Github</a>.</li>
 <li>💬 Ping me about <strong>REACT, DSA and UX/UI</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1CHhwiBJ2cnF5JP1jx_OOMKNKk4M3oarc/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: My humour</li>
 </ul><br>
 
