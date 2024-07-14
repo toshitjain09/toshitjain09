@@ -9,7 +9,7 @@
 <li>🔭 I’m currently learning React.js</li>
 <li>🧐 Learning about <strong>New Dev Technologies</strong>, <strong>Computer networks</strong>, and a bit of <strong>UI/UX</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/toshitjain09">Github</a>.</li>
-<li>💬 Ping me about <strong>REACT, DSA and UX/UI</strong>.</li>
+<!-- <li>💬 Ping me about <strong>REACT, DSA and UX/UI</strong>.</li> -->
 <li>📙 Check out my <a href="https://drive.google.com/file/d/1CHhwiBJ2cnF5JP1jx_OOMKNKk4M3oarc/view?usp=sharing">resume</a>.</li>
 <li>🎉 Fun Fact: My humour</li>
 </ul><br>
